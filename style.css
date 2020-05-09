@@ -1,0 +1,92 @@
+*{
+    font-family: 'Roboto';
+}
+
+body{
+    /* border-color: black; */
+    border: 15px solid black;
+}
+.tengah{
+    text-align: center;
+}
+
+.nama{
+    margin-top: 100px;
+}
+
+.lokasi{
+    margin-top: -10px;
+}
+
+.space{
+    padding: 35px;
+}
+
+.content{
+    padding: 75px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 20px;
+}
+
+.penjelasan{
+    margin-top: -60px;
+    margin-bottom: -60px;
+    margin-left: -40px;
+    margin-right: -40px;
+    padding: 5px;
+    border-radius: 10px;
+    color: white;
+}
+
+.judul{
+    text-align: center;
+}
+
+/* .header{
+    background-color: #25A27C;
+    padding: 20px;
+    padding-bottom: 25px;
+    border-bottom-left-radius: 75px;
+    border-bottom-right-radius: 75px;
+}
+
+.nama{
+    margin-top: 35px;
+    margin-bottom: -50px;
+    color: white;
+}
+
+
+.lokasi{
+    margin-top: -25px;
+    color: white;
+}
+
+.keBawah{
+    background-color: #25A27C;
+    padding-top: 15px;
+    margin-top: -15px;
+    margin-bottom: -100px;
+}
+
+.gambar{
+    width: 50px;
+    height: 35px;
+    padding: 10px;
+    margin-top: 7px;
+}
+
+.content{
+    background-color: #25A27C;
+    padding: 50px;
+    margin-top: 200px;
+    border-radius: 35px;
+}
+
+.content1 {
+    background-color: #FFC260;
+    padding: 50px;
+    margin-top: -50px;
+    border-radius: 35px;
+}  */
